@@ -1,0 +1,7 @@
+tensorflow
+numpy
+scipy
+scikit-learn
+matplotlib
+pygame
+pandas
